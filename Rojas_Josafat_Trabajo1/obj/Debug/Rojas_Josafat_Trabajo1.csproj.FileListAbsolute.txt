@@ -1,0 +1,16 @@
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.csproj.AssemblyReference.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmAgregar.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.MenuPrincipal.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.Properties.Resources.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.csproj.GenerateResource.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.csproj.CoreCompileInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\bin\Debug\Rojas_Josafat_Trabajo1.exe.config
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\bin\Debug\Rojas_Josafat_Trabajo1.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\bin\Debug\Rojas_Josafat_Trabajo1.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmConsultar.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmModificar.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmListar.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmEliminar.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\Rojas_Josafat_Trabajo1\obj\Debug\Rojas_Josafat_Trabajo1.FrmVenta.resources

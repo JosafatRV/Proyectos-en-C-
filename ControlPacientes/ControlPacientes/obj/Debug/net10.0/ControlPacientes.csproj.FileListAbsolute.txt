@@ -1,0 +1,14 @@
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\bin\Debug\net10.0\ControlPacientes.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\bin\Debug\net10.0\ControlPacientes.deps.json
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\bin\Debug\net10.0\ControlPacientes.runtimeconfig.json
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\bin\Debug\net10.0\ControlPacientes.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\bin\Debug\net10.0\ControlPacientes.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.AssemblyInfoInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.AssemblyInfo.cs
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.csproj.CoreCompileInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\refint\ControlPacientes.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ControlPacientes.genruntimeconfig.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\ControlPacientes\ControlPacientes\obj\Debug\net10.0\ref\ControlPacientes.dll

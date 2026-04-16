@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmgenerarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmgenerarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmgenerarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmgenerarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmconsultarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmconsultarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\frmconsultarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\frmconsultarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\productosu2\\appproductosrojas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929DEA08-909D-4C6C-97DE-4757EFF03EA6}|AppProductosRojas\\AppProductosRojas.csproj|solutionrelative:appproductosrojas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEliminarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmEliminarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmEliminarProducto.cs",
+              "RelativeToolTip": "AppProductosRojas\\FrmEliminarProducto.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:42:18.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Form1.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\Form1.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:45:14.706Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Form1.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\Form1.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Form1.cs",
+              "RelativeToolTip": "AppProductosRojas\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAtwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T19:47:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGenerarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmGenerarVenta.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmGenerarVenta.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmGenerarVenta.cs",
+              "RelativeToolTip": "AppProductosRojas\\FrmGenerarVenta.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T23:02:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmEliminarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmEliminarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmEliminarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\FrmEliminarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:24:02.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAgregarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmAgregarProductos.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmAgregarProductos.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmAgregarProductos.cs*",
+              "RelativeToolTip": "AppProductosRojas\\FrmAgregarProductos.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:41:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGenerarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmGenerarVenta.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmGenerarVenta.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmGenerarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\FrmGenerarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:58:30.561Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModificarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmModificarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmModificarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmModificarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\FrmModificarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:23:46.388Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\ListarProductos.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\ListarProductos.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\ListarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\ListarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:49:57.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\ListarProductos.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\ListarProductos.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\ListarProductos.cs",
+              "RelativeToolTip": "AppProductosRojas\\ListarProductos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:51:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmModificarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmModificarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmModificarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmModificarProducto.cs",
+              "RelativeToolTip": "AppProductosRojas\\FrmModificarProducto.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:26:03.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmConsultarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmConsultarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmConsultarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmConsultarProducto.cs",
+              "RelativeToolTip": "AppProductosRojas\\FrmConsultarProducto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:01:03.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAgregarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmAgregarProductos.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmAgregarProductos.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmAgregarProductos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AppProductosRojas\\FrmAgregarProductos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:34:22.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmConsultarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmConsultarProducto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\FrmConsultarProducto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\FrmConsultarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppProductosRojas\\FrmConsultarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:55:50.587Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Producto.cs",
+              "RelativeDocumentMoniker": "AppProductosRojas\\Producto.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\ProductosU2\\AppProductosRojas\\Producto.cs",
+              "RelativeToolTip": "AppProductosRojas\\Producto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T19:06:19.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

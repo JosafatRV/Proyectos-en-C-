@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\contratopoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\contratopoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratoPoliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:14:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Poliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Poliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Poliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Poliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Poliza.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:13:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Cliente.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Cliente.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Cliente.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:11:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:09:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:52:45.216Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

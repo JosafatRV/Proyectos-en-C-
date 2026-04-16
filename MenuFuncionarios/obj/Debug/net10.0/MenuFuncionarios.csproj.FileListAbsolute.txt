@@ -1,0 +1,14 @@
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\bin\Debug\net10.0\MenuFuncionarios.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\bin\Debug\net10.0\MenuFuncionarios.deps.json
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\bin\Debug\net10.0\MenuFuncionarios.runtimeconfig.json
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\bin\Debug\net10.0\MenuFuncionarios.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\bin\Debug\net10.0\MenuFuncionarios.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.AssemblyInfoInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.AssemblyInfo.cs
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\refint\MenuFuncionarios.dll
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\MenuFuncionarios.genruntimeconfig.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\MenuFuncionarios\obj\Debug\net10.0\ref\MenuFuncionarios.dll

@@ -1,0 +1,16 @@
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\bin\Debug\AppProductosRojas.exe.config
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\bin\Debug\AppProductosRojas.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\bin\Debug\AppProductosRojas.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.csproj.AssemblyReference.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.Form1.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.Properties.Resources.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.csproj.GenerateResource.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.csproj.CoreCompileInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.exe
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.pdb
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmAgregarProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmConsultarProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmModificarProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmEliminarProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmListarProductos.resources
+C:\Users\josaf\OneDrive\Escritorio\Tec. Programacion\Segundo Año\Trimestre 1\Ramo C#\Proyects C#\TrabajoFormativoU2\ProductosU2\AppProductosRojas\obj\Debug\AppProductosRojas.FrmGenerarVenta.resources

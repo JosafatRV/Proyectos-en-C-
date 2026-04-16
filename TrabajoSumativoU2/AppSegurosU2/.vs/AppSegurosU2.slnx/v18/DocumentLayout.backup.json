@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\",
+  "WorkspaceRootPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\contratopoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\contratopoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\frmlistarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\frmlistarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajoformativou2\\appsegurosu2\\trabajounidad2victorjosafat\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\frmlistarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\frmlistarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\frmagregarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\frmagregarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\frmmodificarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\frmmodificarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|c:\\users\\josaf\\onedrive\\escritorio\\tec. programacion\\segundo a\u00F1o\\trimestre 1\\ramo c#\\proyects c#\\trabajosumativou2\\appsegurosu2\\trabajounidad2victorjosafat\\frmeliminarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F426BB-7D31-6BD7-319C-C2694D37E08F}|TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj|solutionrelative:trabajounidad2victorjosafat\\frmeliminarpoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +38,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContratoPoliza.cs",
-              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
-              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
-              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
-              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\ContratoPoliza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmListarPoliza.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:14:36.502Z",
+              "WhenOpened": "2026-04-16T21:38:09.657Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModificarPoliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmModificarPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\FrmModificarPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmModificarPoliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\FrmModificarPoliza.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:34:31.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Poliza.cs",
-              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Poliza.cs",
-              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Poliza.cs",
-              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Poliza.cs",
-              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Poliza.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "FrmAgregarPoliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmAgregarPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\FrmAgregarPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmAgregarPoliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\FrmAgregarPoliza.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:13:57.288Z",
+              "WhenOpened": "2026-04-16T21:34:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEliminarPoliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmEliminarPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\FrmEliminarPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmEliminarPoliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\FrmEliminarPoliza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:25:56.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Cliente.cs",
-              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Cliente.cs",
-              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Cliente.cs",
-              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Cliente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:11:11.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
               "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Form1.cs",
-              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
               "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T16:09:30.485Z",
               "EditorCaption": ""
@@ -88,13 +108,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs",
               "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\Form1.cs",
-              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:52:45.216Z",
+              "WhenOpened": "2026-04-16T21:27:24.116Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListarPoliza.cs",
+              "DocumentMoniker": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "RelativeDocumentMoniker": "TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "ToolTip": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo A\u00F1o\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "RelativeToolTip": "TrabajoUnidad2VictorJosafat\\FrmListarPoliza.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:34:34.863Z",
+              "EditorCaption": ""
             }
           ]
         }

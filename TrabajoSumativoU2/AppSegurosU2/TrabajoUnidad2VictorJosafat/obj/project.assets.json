@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj",
+      "projectUniqueName": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj",
       "projectName": "TrabajoUnidad2VictorJosafat",
-      "projectPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj",
+      "projectPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\TrabajoUnidad2VictorJosafat.csproj",
       "packagesPath": "C:\\Users\\josaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoFormativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\obj\\",
+      "outputPath": "C:\\Users\\josaf\\OneDrive\\Escritorio\\Tec. Programacion\\Segundo Año\\Trimestre 1\\Ramo C#\\Proyects C#\\TrabajoSumativoU2\\AppSegurosU2\\TrabajoUnidad2VictorJosafat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
